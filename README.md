@@ -5,6 +5,11 @@ For a more visually pleasant experience for browsing the portfolio, check out hj
 
 *Note: Data used in the projects (accessed under data directory) is for demonstration purposes only*
 
+## Motivation
+This repository would be a shortcut to who wants to improve data-science skills to next-level, as it contains a numerious real-life data science example and notebooks created by @hyunjoonbok and revised from state-of-the-art codes.
+
+As Python is nowadays for #DataScience. I have managed to use the best out of Python to use its full functionality for not only simple EDA, but building a complex ML/DL models.
+
 
 ## Table of contents
 * [Machine Learning](#general-info)
