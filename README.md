@@ -12,7 +12,8 @@ As Python is nowadays for #DataScience. I have managed to use the best out of Py
 
 
 ## Table of contents
-* [Machine Learning](#general-info)
+* [General Info](#general-info)
+* [Machine Learning](#Machine-Learning)
 * [DeepLearning](#DeepLearning)
 * [Time Series](#Time-Series)
 * [NLP / TextClassification](#NLP/TextClassification)
@@ -24,6 +25,11 @@ As Python is nowadays for #DataScience. I have managed to use the best out of Py
 
 ## General info
 Add more general information about project. What the purpose of the project is? Motivation?
+
+## Machine Learning
+- ### NY Taxi Data 
+
+_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, 
 
 
 ## DeepLearning
@@ -45,9 +51,9 @@ Add more general information about project. What the purpose of the project is? 
 
 
 ## Technologies
-* Fast.ai
-* Pytorch
-* Tensorflow
+* *Fast.ai*
+* *Pytorch*
+* *Tensorflow*
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
