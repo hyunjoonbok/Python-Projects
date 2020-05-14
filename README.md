@@ -34,7 +34,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 <hr>
 
 - ## Machine Learning
-	*Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib*
+	   Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib
 
 
    ### [Tabular data / Collaborative filtering](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): 
@@ -68,7 +68,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 <hr>
 
 - ## Deep Learning
-	    *Library / Tools: Pytorch, cv2, Keras, fast.ai, pandas, numpy, Pandas, Matplotlib*
+	    Library / Tools: Pytorch, cv2, Keras, fast.ai, pandas, numpy, Pandas, Matplotlib
 
    ### [Image Restoration_and_Enhancement using Generative Adversarial Network(GANs)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20%5BNew%5D%20GAN%20-%20Image%20Restoration_and_Enhancement.ipynb): 
    <p>
@@ -112,7 +112,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 <hr>
 
 - ## Time Series
-	   *Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib*
+	   Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib
 
    ### [(Kaggle) Sales Prediction on store items](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20TimeSeries%20-%20Sales%20Prediction.ipynb): 
    <p>
@@ -131,7 +131,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 
 - ## NLP/TextClassification
-	   *Library / Tools: Pytorch, transformers, fast.ai, tqdm, pandas, numpy, pygments, google_play_scraper, albumentations, joblib, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib*
+	   Library / Tools: Pytorch, transformers, fast.ai, tqdm, pandas, numpy, pygments, google_play_scraper, albumentations, joblib, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib
 
    ### [Text Classification_final (Language Model)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): 
    <p>
@@ -167,13 +167,14 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 <hr>
 
 - ## Micellenous
+	   Library / Tools: pandas, numpy, elasticsearch, datetime
+
    ### [ElasticSearch connections with Python](https://github.com/hyunjoonbok/Python-Projects/blob/master/ATG_work/%5BATG%5D%20ElasticSearch%20connections%20with%20Python-v2.ipynb): 
    <p>
    Use of Python language to pull data directly from ELK stack. Origianlly came in to JSON format, convert it to Dataframe and do simple EDA / Visualization.
 	</p>
    December 10, 2019
    
-   *Library / Tools: pandas, numpy, elasticsearch, datetime*
    
 <hr>
 
