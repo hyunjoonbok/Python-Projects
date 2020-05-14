@@ -7,6 +7,8 @@ For a detailed code example and images, please refer to readme file in each fold
 
 *Note: Data used in the projects is for learning and demo purposes only*
 
+<hr>
+
 ## Motivation
 
 This repository was origianlly to have a record of project progress and my own learning process, but I found that it would be helpful to who wants to improve data-science skills to next-level, as it contains a numerious real-life data science example and notebooks created by [@hyunjoonbok](https://www.linkedin.com/in/hyunjoonbok/) and codes borrowed from authors who produced state-of-the-art results.
@@ -15,6 +17,7 @@ As Python is nowadays a go-to for Data-Science. I have managed to use the best o
 
 Below examples include the intense usage of industry-hot frameworks (i.e. Pytorch, Fast.ai, H2O, Grandient Boosting, etc) to produce ready-to-use results.
 
+<hr>
 
 ## Table of contents
 * [ALL Portfolio](#Contents)
@@ -24,11 +27,16 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 * [Status](#status)
 * [Contact](#contact)
 
+<hr>
+
 ## Contents
 
 - ### Machine Learning
-   - [Tabular data / Collaborative filtering](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): Finding a customer who's income level. Simple ML Classification problem tackled with Fast.ai API. Executable to almost all types of tabular data to naively achieve a good baseline model in a few lines of code. Also, collaborative filtering is when you're tasked to predict how much a user is going to like a certain item.  Here I looked at "MovieLens" dataset to predict the rating a user would give a particular movie (from 0 to 5) 
-   
+
+   - [Tabular data / Collaborative filtering](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): 
+   <p> Finding a customer who's income level. Simple ML Classification problem tackled with Fast.ai API. Executable to almost all types of tabular data to naively achieve a good baseline model in a few lines of code. Also, collaborative filtering is when you're tasked to predict how much a user is going to like a certain item.  Here I looked at "MovieLens" dataset to predict the rating a user would give a particular movie (from 0 to 5) </p>
+December 10, 2019
+
    - [(Kaggle) M5_Forecasting](https://github.com/hyunjoonbok/Python-Projects/blob/master/Kaggle/%5BKaggle%5D%20M5_Forecasting.ipynb): From Walmart sales data, forecast daily sales for the next 28 days. The data, covers stores in three US States (California, Texas, and Wisconsin) and includes item level, department, product categories, and store details. Pre-process (Feature Enginenering / Hyperparameter Optimization) given data and used LGB/XGB ensemble to generate a final submission. From [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview) in Kaggle.   
 
    - [(Kaggle) NCAAW® 2020 ML Competition](https://github.com/hyunjoonbok/Python-Projects/blob/master/Kaggle/%5BKaggle%5D%20NCAAW20.ipynb): To forecast the outcomes of March-Madness during rest of 2020's NCAAW games. Covers all team-by-team season games results data. Pre-processing of tabular data and ensemble of LGB/XGB generates a final submission. From [Google Cloud & NCAA® ML Competition 2020-NCAAW](https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament/overview) in Kaggle.  *Update: this competition was cancelled in Mar.2020 due to the COVID-19.*
@@ -37,6 +45,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
    _Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib
 
+<hr>
 
 - ### Deeplearning
    - [Image Restoration_and_Enhancement using Generative Adversarial Network(GANs)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20%5BNew%5D%20GAN%20-%20Image%20Restoration_and_Enhancement.ipynb): Use Fast.ai framework to load image data, create generator/discriminator from images. Then create a model with a custom GAN loss function. Check error and improve on test image sets.
@@ -54,6 +63,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
     _Library / Tools: Pytorch, cv2, Keras, fast.ai, pandas, numpy, Pandas, Matplotlib
 
+<hr>
 
 - ### Time Series
   - [(Kaggle) Sales Prediction on store items](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20TimeSeries%20-%20Sales%20Prediction.ipynb): Using Fast.ai to expand a tabular data to utilize many of columns in order to predict sales on stroes based on different situations like promotion, seaons, holidays, etc. Insights are from [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
@@ -66,6 +76,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
    _Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib
 
+<hr>
 
 - ### NLP/TextClassification
 
@@ -80,12 +91,14 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
    _Library / Tools: Pytorch, transformers, fast.ai, tqdm, pandas, numpy, pygments, google_play_scraper, albumentations, joblib, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib
 
+<hr>
 
 - ### Micellenous
    - [ElasticSearch connections with Python](https://github.com/hyunjoonbok/Python-Projects/blob/master/ATG_work/%5BATG%5D%20ElasticSearch%20connections%20with%20Python-v2.ipynb): Use of Python language to pull data directly from ELK stack. Origianlly came in to JSON format, convert it to Dataframe and do simple EDA / Visualization.
    
    _Library / Tools: pandas, numpy, elasticsearch, datetime
    
+<hr>
 
 ## Technologies
 * *Fast.ai*
@@ -107,6 +120,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 * *elasticsearch*
 * *And More...*
 
+<hr>
 
 ## Setup
 #### - reqiurement
@@ -114,10 +128,10 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 pip install -r requirements.txt
 ```
 
-
 ## Code Examples
 Show examples of usage: `put-your-code-here`
 
+<hr>
 
 ## TO-DOs
 List of features ready and TODOs for future development
