@@ -76,8 +76,8 @@ Add more general information about project. What the purpose of the project is? 
    - [Text Classification_final (Language Model)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): 2-way polarity (positive, negative) classification system for tweets. Using Fast.ai framework to fine-tune a language model and build a classification model with close to 80% accuracy. 
    
    - BERT to classify twitter sentiment: Used Pytorch to encode/tokenize/train/evaluate model
-   	- [BERT-base](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20(2)%20BERT-base%20to%20Classify%20Twitter%20NLP.ipynb): The most simple 
-	- [BERT-large](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20(3)%20BERT-large%20to%20Classify%20Twitter%20NLP.ipynb): Using large BERT (takes longer)
+      ####- [BERT-base](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20(2)%20BERT-base%20to%20Classify%20Twitter%20NLP.ipynb): The most simple version
+      ####- [BERT-large](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20(3)%20BERT-large%20to%20Classify%20Twitter%20NLP.ipynb): Using large BERT (takes longer)
 	
    - [Google-play App Review Sentiment Analysis with BERT](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20Sentiment%20Analysis%20with%20Transformer%20BERT.ipynb): 3-way polarity (positive, neutral, negative) sentiment analysis system for Google-Play App reviews. Use Pytorch to get review in JSON, data-preprocess, Create pytorch dataloader , train/evaluate the model. Evaluate the errors and testing on the raw text data in the end.
    
