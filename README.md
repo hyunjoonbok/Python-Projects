@@ -1,7 +1,7 @@
 # Python Portfolio
 Portfolio of data science projects from either original work or revised for a study and learning purpose. Portfolio in this repo is presented in the form of iPython Notebooks and .py files.
 
-For a more visually pleasant experience for browsing the portfolio, check out hjbok.github.io
+For a more visually pleasant experience for browsing the portfolio, check out [My Portfolio Website](https://hyunjoonbok.github.io/)
 
 For a detailed code example and images, please refer to readme file in each folder under framework names.
 
@@ -67,56 +67,122 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 <hr>
 
-- ### Deeplearning
-   - [Image Restoration_and_Enhancement using Generative Adversarial Network(GANs)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20%5BNew%5D%20GAN%20-%20Image%20Restoration_and_Enhancement.ipynb): Use Fast.ai framework to load image data, create generator/discriminator from images. Then create a model with a custom GAN loss function. Check error and improve on test image sets.
+- ## Deeplearning
+   ### [Image Restoration_and_Enhancement using Generative Adversarial Network(GANs)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20%5BNew%5D%20GAN%20-%20Image%20Restoration_and_Enhancement.ipynb): 
+   <p>
+   Use Fast.ai framework to load image data, create generator/discriminator from images. Then create a model with a custom GAN loss function. Check error and improve on test image sets.
+	</p>
+   December 10, 2019
    
-   - [DCGAN - Generate_Fake_Images](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20DCGAN%20-%20Generate_new_images.ipynb): Based on a set of celebrity images, we are generating a new set of fake images. Then compare Real Images vs. Fake Images create generator/discriminator from images. Used Pytorch to load image / create Generator/Discriminator and training loop. 
+   ### [DCGAN - Generate_Fake_Images](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20DCGAN%20-%20Generate_new_images.ipynb): 
+   <p>
+   Based on a set of celebrity images, we are generating a new set of fake images. Then compare Real Images vs. Fake Images create generator/discriminator from images. Used Pytorch to load image / create Generator/Discriminator and training loop. 
+	</p>
+   December 10, 2019
    
-   - [MNIST CNN, Skip-connection (U-NET)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20MNIST%20CNN%2C%20Skip-connection%20(U-NET).ipynb): Use Fast.ai framework that's built on top of pytorch, to build a simple MNIST CNN model. Use Skip-connection to build a simpel conv-nn, which achieve a state-of-the-art result (99.6% accuracy on test-set).  
+   ### [MNIST CNN, Skip-connection (U-NET)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20MNIST%20CNN%2C%20Skip-connection%20(U-NET).ipynb): 
+   <p>
+   Use Fast.ai framework that's built on top of pytorch, to build a simple MNIST CNN model. Use Skip-connection to build a simpel conv-nn, which achieve a state-of-the-art result (99.6% accuracy on test-set).
+	</p>
+   December 10, 2019
    
-   - [(Kaggle) Handwritten_Image_Classification (Grapheme language)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/%5BKaggle%5D%20(Fast.ai)%20Handwritten_Image_Classification%20(Grapheme%20language).ipynb): Use Fast.ai to build a CNN model to classify a image of a langauge. From [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19) in Kaggle. Includes Load image / Genearte custom loss function / Train & Test data using Fast.ai.
    
-   - [Simple CNN data Augmentation](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Simple%20CNN%20data%20Augmentation.ipynb): Image-Augmentation on CNN model is one of the most important feature engineering steps. Here I looked at how image tranformation can be done with a built-in. Wider range of selection are availalbe in [fast.ai-vision-transform](https://docs.fast.ai/vision.transform.html) except the ones shown.
+   ### [(Kaggle) Handwritten_Image_Classification (Grapheme language)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/%5BKaggle%5D%20(Fast.ai)%20Handwritten_Image_Classification%20(Grapheme%20language).ipynb): 
+   <p>
+   Use Fast.ai to build a CNN model to classify a image of a langauge. From [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19) in Kaggle. Includes Load image / Genearte custom loss function / Train & Test data using Fast.ai.
+	</p>
+   December 10, 2019
+   
+   ### [Simple CNN data Augmentation](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Simple%20CNN%20data%20Augmentation.ipynb): 
+   <p>
+   Image-Augmentation on CNN model is one of the most important feature engineering steps. Here I looked at how image tranformation can be done with a built-in. Wider range of selection are availalbe in [fast.ai-vision-transform](https://docs.fast.ai/vision.transform.html) except the ones shown.
    *Things to add*: How ["Albumentation"](https://github.com/albumentations-team/albumentations) library can be used within Fast.ai framework.   
+	</p>
+   December 10, 2019
    
-   - [[Kaggle] MNIST Digit Recognizer](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/%5BKaggle%5D%20(Fast.ai)%20MNIST%20Digit%20Recognizer%20Kaggle.ipynb): Kaggle version of MNIST. Use Fast.ai and transfer learning to solve. 
+   ### [(Kaggle) MNIST Digit Recognizer](https://github.com/hyunjoonbok/Python Projects/blob/master/Fast.ai/%5BKaggle%5D%20(Fast.ai)%20MNIST%20Digit%20Recognizer%20Kaggle.ipynb): 
+   <p>
+   Kaggle version of MNIST. Use Fast.ai and transfer learning to solve. 
+	</p>
+   December 10, 2019
 
-    _Library / Tools: Pytorch, cv2, Keras, fast.ai, pandas, numpy, Pandas, Matplotlib
+    *Library / Tools: Pytorch, cv2, Keras, fast.ai, pandas, numpy, Pandas, Matplotlib*
 
 <hr>
 
-- ### Time Series
-  - [(Kaggle) Sales Prediction on store items](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20TimeSeries%20-%20Sales%20Prediction.ipynb): Using Fast.ai to expand a tabular data to utilize many of columns in order to predict sales on stroes based on different situations like promotion, seaons, holidays, etc. Insights are from [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
+- ## Time Series
+   ### [(Kaggle) Sales Prediction on store items](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20TimeSeries%20-%20Sales%20Prediction.ipynb): 
+   <p>
+   Using Fast.ai to expand a tabular data to utilize many of columns in order to predict sales on stroes based on different situations like promotion, seaons, holidays, etc. Insights are from [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
+	</p>
+   December 10, 2019
   
-  - [(Kaggle) M5_Forecasting](https://github.com/hyunjoonbok/Python-Projects/blob/master/Kaggle/%5BKaggle%5D%20M5_Forecasting.ipynb): From Walmart sales data, forecast daily sales for the next 28 days. The data, covers stores in three US States (California, Texas, and Wisconsin) and includes item level, department, product categories, and store details. Pre-process (Feature Enginenering / Hyperparameter Optimization) given data and used LGB/XGB ensemble to generate a final submission. From [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview) in Kaggle.
+   ### [(Kaggle) M5_Forecasting](https://github.com/hyunjoonbok/Python-Projects/blob/master/Kaggle/%5BKaggle%5D%20M5_Forecasting.ipynb):
+   <p>
+   From Walmart sales data, forecast daily sales for the next 28 days. The data, covers stores in three US States (California, Texas, and Wisconsin) and includes item level, department, product categories, and store details. Pre-process (Feature Enginenering / Hyperparameter Optimization) given data and used LGB/XGB ensemble to generate a final submission. From [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview) in Kaggle.
+	</p>
+   December 10, 2019
   
-  - [Titanic Dataset - Exploratory Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
+   ### [Titanic Dataset - Exploratory Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): 
+   <p>
+   Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
+	</p>
+   December 10, 2019
   
-  - [Stock Market Analysis for Tech Stocks](https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+   ### [Stock Market Analysis for Tech Stocks](https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): 
+   <p>
+   Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+	</p>
+   December 10, 2019
 
-   _Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib
+   *Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib*
 
 <hr>
 
-- ### NLP/TextClassification
+- ## NLP/TextClassification
 
-   - [Text Classification_final (Language Model)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): 2-way polarity (positive, negative) classification system for tweets. Using Fast.ai framework to fine-tune a language model and build a classification model with close to 80% accuracy. 
+   ### [Text Classification_final (Language Model)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): 
+   <p>
+   2-way polarity (positive, negative) classification system for tweets. Using Fast.ai framework to fine-tune a language model and build a classification model with close to 80% accuracy. 
+	</p>
+   December 10, 2019
    
-   - [BERT-base: classify twitter sentiment](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20(2)%20BERT-base%20to%20Classify%20Twitter%20NLP.ipynb): Used Pytorch to encode/tokenize/train/evaluate model. The most simple version
-   - [BERT-large: classify twitter sentiment](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20(3)%20BERT-large%20to%20Classify%20Twitter%20NLP.ipynb): Using large BERT (takes longer)
+   ### [BERT-base: classify twitter sentiment](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20(2)%20BERT-base%20to%20Classify%20Twitter%20NLP.ipynb): 
+   <p>
+   Used Pytorch to encode/tokenize/train/evaluate model. The most simple version
+	</p>
+   December 10, 2019
+   
+   ### [BERT-large: classify twitter sentiment](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20(3)%20BERT-large%20to%20Classify%20Twitter%20NLP.ipynb): 
+   <p>
+   Using large BERT (takes longer)
+	</p>
+   December 10, 2019
 	
-   - [Google-play App Review Sentiment Analysis with BERT](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20Sentiment%20Analysis%20with%20Transformer%20BERT.ipynb): 3-way polarity (positive, neutral, negative) sentiment analysis system for Google-Play App reviews. Use Pytorch to get review in JSON, data-preprocess, Create pytorch dataloader , train/evaluate the model. Evaluate the errors and testing on the raw text data in the end.
+   ### [Google-play App Review Sentiment Analysis with BERT](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20Sentiment%20Analysis%20with%20Transformer%20BERT.ipynb): 
+   <p>
+   3-way polarity (positive, neutral, negative) sentiment analysis system for Google-Play App reviews. Use Pytorch to get review in JSON, data-preprocess, Create pytorch dataloader , train/evaluate the model. Evaluate the errors and testing on the raw text data in the end.
+	</p>
+   December 10, 2019
    
-   - [(Kaggle) Handwritten_Image_Classification (Grapheme language)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/%5BKaggle%5D%20(Pytorch)%20Handwritten_Image_Classification%20(Grapheme%20language).ipynb): Pytorch version of builing a CNN model to classify a image of a langauge. Complete model building from loading/defining/transforming data to create and train model. From [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19) in Kaggle. 
+   ### [(Kaggle) Handwritten_Image_Classification (Grapheme language)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/%5BKaggle%5D%20(Pytorch)%20Handwritten_Image_Classification%20(Grapheme%20language).ipynb): 
+   <p>
+   Pytorch version of builing a CNN model to classify a image of a langauge. Complete model building from loading/defining/transforming data to create and train model. From [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19) in Kaggle. 
+	</p>
+   December 10, 2019
 
-   _Library / Tools: Pytorch, transformers, fast.ai, tqdm, pandas, numpy, pygments, google_play_scraper, albumentations, joblib, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib
+   *Library / Tools: Pytorch, transformers, fast.ai, tqdm, pandas, numpy, pygments, google_play_scraper, albumentations, joblib, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib*
 
 <hr>
 
-- ### Micellenous
-   - [ElasticSearch connections with Python](https://github.com/hyunjoonbok/Python-Projects/blob/master/ATG_work/%5BATG%5D%20ElasticSearch%20connections%20with%20Python-v2.ipynb): Use of Python language to pull data directly from ELK stack. Origianlly came in to JSON format, convert it to Dataframe and do simple EDA / Visualization.
+- ## Micellenous
+   ### [ElasticSearch connections with Python](https://github.com/hyunjoonbok/Python-Projects/blob/master/ATG_work/%5BATG%5D%20ElasticSearch%20connections%20with%20Python-v2.ipynb): 
+   <p>
+   Use of Python language to pull data directly from ELK stack. Origianlly came in to JSON format, convert it to Dataframe and do simple EDA / Visualization.
+	</p>
+   December 10, 2019
    
-   _Library / Tools: pandas, numpy, elasticsearch, datetime
+   *Library / Tools: pandas, numpy, elasticsearch, datetime*
    
 <hr>
 
