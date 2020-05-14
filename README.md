@@ -11,7 +11,9 @@ For a detailed code example and images, please refer to readme file in each fold
 
 This repository was origianlly to have a record of project progress and my own learning process, but I found that it would be helpful to who wants to improve data-science skills to next-level, as it contains a numerious real-life data science example and notebooks created by [@hyunjoonbok](https://www.linkedin.com/in/hyunjoonbok/) and codes borrowed from authors who produced state-of-the-art results.
 
-As Python is nowadays a go-to for #DataScience. I have managed to use the best out of Python to use its full functionality for not only simple EDA, but building a complex ML/DL models.
+As Python is nowadays a go-to for Data-Science. I have managed to use the best out of Python to use its full functionality for not only simple EDA, but building a complex ML/DL models.
+
+Below examples includes the intense usage of industry-hot frameworks (i.e. Pytorch, Fast.ai, H2O, Grandient Boosting, etc) to produce ready-to-use results.
 
 
 ## Table of contents
