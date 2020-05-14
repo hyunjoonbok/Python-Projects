@@ -34,6 +34,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 <hr>
 
 - ## Machine Learning
+	*Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib*
 
    ### [Tabular data / Collaborative filtering](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): 
    <p>
@@ -62,8 +63,6 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 	</p>
    December 10, 2019
    
-
-   *Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib*
 
 <hr>
 
@@ -100,7 +99,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 	</p>
    December 10, 2019
    
-   ### [(Kaggle) MNIST Digit Recognizer](https://github.com/hyunjoonbok/Python Projects/blob/master/Fast.ai/%5BKaggle%5D%20(Fast.ai)%20MNIST%20Digit%20Recognizer%20Kaggle.ipynb): 
+   ### [(Kaggle) MNIST Digit Recognizer](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/%5BKaggle%5D%20(Fast.ai)%20MNIST%20Digit%20Recognizer%20Kaggle.ipynb): 
    <p>
    Kaggle version of MNIST. Use Fast.ai and transfer learning to solve. 
 	</p>
