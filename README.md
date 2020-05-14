@@ -22,11 +22,6 @@ As Python is nowadays a go-to for #DataScience. I have managed to use the best o
 * [Status](#status)
 * [Contact](#contact)
 
-
-## General info
-Add more general information about project. What the purpose of the project is? Motivation?
-
-
 ## Contents
 
 - ### Machine Learning
@@ -119,19 +114,15 @@ pip install -r requirements.txt
 
 
 ## Code Examples
-Show examples of usage:
-`put-your-code-here`
+Show examples of usage: `put-your-code-here`
 
-## Features
+
+## TO-DOs
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Tableau Public - Add visulization using work data : _in progress_
+* Python Dash : _in progress_
+* Data cleaning .ipynbs : _in progress_
 
-## Status
-Project is: 
-_in progress_
-_finished_ 
 
 ## Contact
 Created by [@hyunjoonbok](https://www.linkedin.com/in/hyunjoonbok/) - feel free to contact me!
