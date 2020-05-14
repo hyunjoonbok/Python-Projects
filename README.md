@@ -66,7 +66,9 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 <hr>
 
-- ## Deeplearning
+- ## Deep Learning
+	    *Library / Tools: Pytorch, cv2, Keras, fast.ai, pandas, numpy, Pandas, Matplotlib*
+
    ### [Image Restoration_and_Enhancement using Generative Adversarial Network(GANs)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20%5BNew%5D%20GAN%20-%20Image%20Restoration_and_Enhancement.ipynb): 
    <p>
    Use Fast.ai framework to load image data, create generator/discriminator from images. Then create a model with a custom GAN loss function. Check error and improve on test image sets.
@@ -105,11 +107,12 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 	</p>
    December 10, 2019
 
-    *Library / Tools: Pytorch, cv2, Keras, fast.ai, pandas, numpy, Pandas, Matplotlib*
 
 <hr>
 
 - ## Time Series
+	   *Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib*
+
    ### [(Kaggle) Sales Prediction on store items](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20TimeSeries%20-%20Sales%20Prediction.ipynb): 
    <p>
    Using Fast.ai to expand a tabular data to utilize many of columns in order to predict sales on stroes based on different situations like promotion, seaons, holidays, etc. Insights are from [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
@@ -121,24 +124,13 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
    From Walmart sales data, forecast daily sales for the next 28 days. The data, covers stores in three US States (California, Texas, and Wisconsin) and includes item level, department, product categories, and store details. Pre-process (Feature Enginenering / Hyperparameter Optimization) given data and used LGB/XGB ensemble to generate a final submission. From [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview) in Kaggle.
 	</p>
    December 10, 2019
-  
-   ### [Titanic Dataset - Exploratory Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): 
-   <p>
-   Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
-	</p>
-   December 10, 2019
-  
-   ### [Stock Market Analysis for Tech Stocks](https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): 
-   <p>
-   Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
-	</p>
-   December 10, 2019
 
-   *Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib*
 
 <hr>
 
+
 - ## NLP/TextClassification
+	   *Library / Tools: Pytorch, transformers, fast.ai, tqdm, pandas, numpy, pygments, google_play_scraper, albumentations, joblib, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib*
 
    ### [Text Classification_final (Language Model)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): 
    <p>
@@ -170,7 +162,6 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 	</p>
    December 10, 2019
 
-   *Library / Tools: Pytorch, transformers, fast.ai, tqdm, pandas, numpy, pygments, google_play_scraper, albumentations, joblib, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib*
 
 <hr>
 
