@@ -36,6 +36,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 - ## Machine Learning
 	*Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib*
 
+
    ### [Tabular data / Collaborative filtering](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): 
    <p>
    Finding a customer who's income level. Simple ML Classification problem tackled with Fast.ai API. Executable to almost all types of tabular data to naively achieve a good baseline model in a few lines of code. Also, collaborative filtering is when you're tasked to predict how much a user is going to like a certain item.  Here I looked at "MovieLens" dataset to predict the rating a user would give a particular movie (from 0 to 5) 
