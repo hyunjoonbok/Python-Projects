@@ -31,7 +31,18 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 # Projects
 
+### 2020 Edition
+   #### [GameTitle-Recommender with Market-Basket-Analysis (1)](https://github.com/hyunjoonbok/R-projects/blob/master/Title_Recommender_with_market_basket_analysis/Market_Basket_Analysis_with_recommender%20(1)%20-%20Data%20Preparation.R) 
+   <p>
+   A End-to-End recommendation system model building using the game title from data wragling, to building an algorithm and deplying to Shiny WebApp. A full comprehension of recommender algorithm could be gained and can be applied to any real-world data.
+   </p>
+   Reference: [Diego Usai's Website](https://diegousai.io/categories/multi-article-studies/)
+   May 17, 2020
+
+
 <hr>
+
+### 2019 and older
 
 - ## Machine Learning
 	   Library / Tools: Keras, Tensorflow, fast.ai, pandas, numpy, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib
