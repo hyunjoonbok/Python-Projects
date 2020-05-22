@@ -32,12 +32,47 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 # Projects
 
 ### 2020 Edition
-   #### [GameTitle-Recommender with Market-Basket-Analysis (1)](https://github.com/hyunjoonbok/R-projects/blob/master/Title_Recommender_with_market_basket_analysis/Market_Basket_Analysis_with_recommender%20(1)%20-%20Data%20Preparation.R) 
+
+   #### [Google-play App Review Sentiment Analysis with BERT](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20Sentiment%20Analysis%20with%20Transformer%20BERT.ipynb): 
    <p>
-   A End-to-End recommendation system model building using the game title from data wragling, to building an algorithm and deplying to Shiny WebApp. A full comprehension of recommender algorithm could be gained and can be applied to any real-world data.
+   3-way polarity (positive, neutral, negative) sentiment analysis system for Google-Play App reviews. Use Pytorch to get review in JSON, data-preprocess, Create pytorch dataloader , train/evaluate the model. Evaluate the errors and testing on the raw text data in the end.
+	</p>
+   Mar 5, 2020
+
+   #### [Credit Card Fraud Detection using Keras (Imbalanced response)](https://github.com/hyunjoonbok/Python-Projects/blob/master/tensorflow/Credit%20Card%20Fraud%20Dectection%20using%20Keras%20(Imbalanced%20response).ipynb) 
+   <p>
+   Buiding a Fraud Detection model using a sample Credit Card transaction data from Kaggle. The data is highly imbalanced, so it shows how to adjust sampling to solve the problem. Then we check important metrics needed to be evalulated (fp/tp/precision/recall, etc)
    </p>
-   Reference: [Diego Usai's Website](https://diegousai.io/categories/multi-article-studies/)
-   May 17, 2020
+   Reference: [Kaggle CreditCard data](https://www.kaggle.com/mlg-ulb/creditcardfraud/)
+   May 20, 2020
+   
+   
+   #### [(Kaggle) Handwritten_Image_Classification (Grapheme language)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/%5BKaggle%5D%20(Pytorch)%20Handwritten_Image_Classification%20(Grapheme%20language).ipynb): 
+   <p>
+   Pytorch version of builing a CNN model to classify a image of a langauge. Complete model building from loading/defining/transforming data to create and train model. From [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19) in Kaggle. 
+	</p>
+   Jan 4, 2020
+   
+   
+   #### [(Kaggle) M5_Forecasting](https://github.com/hyunjoonbok/Python-Projects/blob/master/Kaggle/%5BKaggle%5D%20M5_Forecasting.ipynb): 
+   <p>
+   From Walmart sales data, forecast daily sales for the next 28 days. The data, covers stores in three US States (California, Texas, and Wisconsin) and includes item level, department, product categories, and store details. Pre-process (Feature Enginenering / Hyperparameter Optimization) given data and used LGB/XGB ensemble to generate a final submission. From [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview) in Kaggle. 
+	</p>
+   Mar 24, 2020	   
+
+
+   #### [(Kaggle) NCAAW® 2020 ML Competition](https://github.com/hyunjoonbok/Python-Projects/blob/master/Kaggle/%5BKaggle%5D%20NCAAW20.ipynb): 
+   <p>
+   To forecast the outcomes of March-Madness during rest of 2020's NCAAW games. Covers all team-by-team season games results data. Pre-processing of tabular data and ensemble of LGB/XGB generates a final submission. From [Google Cloud & NCAA® ML Competition 2020-NCAAW](https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament/overview) in Kaggle.  *Update: this competition was cancelled in Mar.2020 due to the COVID-19.*
+	</p>
+   Feb 27, 2020
+   
+
+   #### [Text Classification_final (Language Model)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): 
+   <p>
+   2-way polarity (positive, negative) classification system for tweets. Using Fast.ai framework to fine-tune a language model and build a classification model with close to 80% accuracy. 
+	</p>
+   Feb 21, 2020
 
 
 <hr>
@@ -53,20 +88,12 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
    Finding a customer who's income level. Simple ML Classification problem tackled with Fast.ai API. Executable to almost all types of tabular data to naively achieve a good baseline model in a few lines of code. Also, collaborative filtering is when you're tasked to predict how much a user is going to like a certain item.  Here I looked at "MovieLens" dataset to predict the rating a user would give a particular movie (from 0 to 5) 
 	</p>
    May 10, 2018
-
-
-   ### [(Kaggle) M5_Forecasting](https://github.com/hyunjoonbok/Python-Projects/blob/master/Kaggle/%5BKaggle%5D%20M5_Forecasting.ipynb): 
+   
+    ### [(Kaggle) Handwritten_Image_Classification (Grapheme language)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/%5BKaggle%5D%20(Fast.ai)%20Handwritten_Image_Classification%20(Grapheme%20language).ipynb): 
    <p>
-   From Walmart sales data, forecast daily sales for the next 28 days. The data, covers stores in three US States (California, Texas, and Wisconsin) and includes item level, department, product categories, and store details. Pre-process (Feature Enginenering / Hyperparameter Optimization) given data and used LGB/XGB ensemble to generate a final submission. From [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview) in Kaggle. 
+   Use Fast.ai to build a CNN model to classify a image of a langauge. From [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19) in Kaggle. Includes Load image / Genearte custom loss function / Train & Test data using Fast.ai.
 	</p>
-   Mar 24, 2020	
-
-
-   ### [(Kaggle) NCAAW® 2020 ML Competition](https://github.com/hyunjoonbok/Python-Projects/blob/master/Kaggle/%5BKaggle%5D%20NCAAW20.ipynb): 
-   <p>
-   To forecast the outcomes of March-Madness during rest of 2020's NCAAW games. Covers all team-by-team season games results data. Pre-processing of tabular data and ensemble of LGB/XGB generates a final submission. From [Google Cloud & NCAA® ML Competition 2020-NCAAW](https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament/overview) in Kaggle.  *Update: this competition was cancelled in Mar.2020 due to the COVID-19.*
-	</p>
-   Feb 6, 2020
+   Jan 3, 2020     
    
    
    ### [(Kaggle) NY Taxi Trip Duration](https://github.com/hyunjoonbok/Python-Projects/blob/master/Kaggle/%5BKaggle%5D%20NY%20Taxi%20Data.ipynb):
@@ -100,18 +127,13 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
    June 30, 2019
    
    
-   ### [(Kaggle) Handwritten_Image_Classification (Grapheme language)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/%5BKaggle%5D%20(Fast.ai)%20Handwritten_Image_Classification%20(Grapheme%20language).ipynb): 
-   <p>
-   Use Fast.ai to build a CNN model to classify a image of a langauge. From [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19) in Kaggle. Includes Load image / Genearte custom loss function / Train & Test data using Fast.ai.
-	</p>
-   Jan 3, 2020
-   
    ### [Simple CNN data Augmentation](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Simple%20CNN%20data%20Augmentation.ipynb): 
    <p>
    Image-Augmentation on CNN model is one of the most important feature engineering steps. Here I looked at how image tranformation can be done with a built-in. Wider range of selection are availalbe in [fast.ai-vision-transform](https://docs.fast.ai/vision.transform.html) except the ones shown.
    *Things to add*: How ["Albumentation"](https://github.com/albumentations-team/albumentations) library can be used within Fast.ai framework.   
 	</p>
    Nov 12, 2019
+   
    
    ### [(Kaggle) MNIST Digit Recognizer](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/%5BKaggle%5D%20(Fast.ai)%20MNIST%20Digit%20Recognizer%20Kaggle.ipynb): 
    <p>
@@ -144,11 +166,6 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 - ## NLP/TextClassification
 	   Library / Tools: Pytorch, transformers, fast.ai, tqdm, pandas, numpy, pygments, google_play_scraper, albumentations, joblib, xgboost, lightgbm, scikit-learn, optuna, Seaborn, Matplotlib
 
-   ### [Text Classification_final (Language Model)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): 
-   <p>
-   2-way polarity (positive, negative) classification system for tweets. Using Fast.ai framework to fine-tune a language model and build a classification model with close to 80% accuracy. 
-	</p>
-   Feb 21, 2020
    
    ### [BERT-base: classify twitter sentiment](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20(2)%20BERT-base%20to%20Classify%20Twitter%20NLP.ipynb): 
    <p>
@@ -162,18 +179,6 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 	</p>
    December 7, 2019
 	
-   ### [Google-play App Review Sentiment Analysis with BERT](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20Sentiment%20Analysis%20with%20Transformer%20BERT.ipynb): 
-   <p>
-   3-way polarity (positive, neutral, negative) sentiment analysis system for Google-Play App reviews. Use Pytorch to get review in JSON, data-preprocess, Create pytorch dataloader , train/evaluate the model. Evaluate the errors and testing on the raw text data in the end.
-	</p>
-   Mar 5, 2020
-   
-   ### [(Kaggle) Handwritten_Image_Classification (Grapheme language)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/%5BKaggle%5D%20(Pytorch)%20Handwritten_Image_Classification%20(Grapheme%20language).ipynb): 
-   <p>
-   Pytorch version of builing a CNN model to classify a image of a langauge. Complete model building from loading/defining/transforming data to create and train model. From [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19) in Kaggle. 
-	</p>
-   Jan 4, 2020
-
 
 <hr>
 
@@ -184,7 +189,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
    <p>
    Use of Python language to pull data directly from ELK stack. Origianlly came in to JSON format, convert it to Dataframe and do simple EDA / Visualization.
 	</p>
-   December 28, 2019
+   December 12, 2019
    
    
 <hr>
