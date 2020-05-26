@@ -33,6 +33,55 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
+   #### [f-AnoGAN in Pytorch](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/f-AnoGAN%20(Image%20Anomaly%20Detection)%20in%20Pytorch%20.ipynb): 
+   <p>
+   Concept and codes for the fast unsupervised anomaly detection with generative adversarial networks (GAN), which is widely used for real-time anomaly detection applications. Uses "DCGAN" model, which is State-of-the-Art GAN model.
+	</p>
+   Mar 26, 2020
+
+
+   #### [Transfer Learning in Pytorch by building CIFAR-10 model](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/Transfer%20Learning%20in%20Pytorch%20by%20building%20CIFAR-10%20model.ipynb): 
+   <p>
+   Transfer learning explained. Modify a few last layers to fit-in to my own dataset.
+	</p>
+   Mar 26, 2020
+   
+
+   #### [Pytorch Training Loop Implementation](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/Simple%20Pytorch%20Training%20Loop%20Implementation.ipynb): 
+   <p>
+   A simple walkthrough of training loops and metrics used in learning in Pytorch, follow by a complete example in the last using CIFAR-10 dataset.
+	</p>
+   Mar 25, 2020
+
+
+   #### [Recommender System (Collaborative filtering)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/Recommender%20System%20(Collaborative%20filtering).ipynb): 
+   <p>
+   A complete guide to recommendation system using Collaborative Filtering: Matrix Factorization. Concepts that are used in industry are explained, and compare model/metrics and build prediction algorithm.
+	</p>
+   Mar 25, 2020
+
+
+   #### [Neural Transfer Using PyTorch (VGG19)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/Neural%20Transfer%20Using%20PyTorch%20(VGG19).ipynb): 
+   <p>
+   Style transfer in practice using Pytorch using pretrained VGG19 model.
+	</p>
+   Mar 24, 2020
+
+
+   #### [Pytorch Training in Pratice](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/Basic%20Pytorch%20Concepts%20in%20practice%20by%20building%20MNIST%20CNN%20model%20.ipynb): 
+   <p>
+   Going through a complete modeling step in Pytorch based on MNIST dataset. Can grasp a general idea of Pytorch concept.
+	</p>
+   Mar 24, 2020
+
+
+   #### [Tensorboard usage in Pytorch](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20VISUALIZING%20MODELS%2C%20DATA%2C%20AND%20TRAINING%20WITH%20TENSORBOARD.ipynb): 
+   <p>
+   How to use Tensorboard in Jupyter notebook when training a model in Pytorch.
+	</p>
+   Mar 23, 2020
+
+
    #### [Google-play App Review Sentiment Analysis with BERT](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/(Pytorch)%20Sentiment%20Analysis%20with%20Transformer%20BERT.ipynb): 
    <p>
    3-way polarity (positive, neutral, negative) sentiment analysis system for Google-Play App reviews. Use Pytorch to get review in JSON, data-preprocess, Create pytorch dataloader , train/evaluate the model. Evaluate the errors and testing on the raw text data in the end.
