@@ -33,6 +33,12 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
+   #### [Rock Paper Scissors (using MobileNetV2) in Tensorflow 2.0](https://github.com/hyunjoonbok/Python-Projects/blob/master/tensorflow/Build%20RPS%20image%20classification%20using%20Tensorflow.ipynb): 
+   <p>
+   CNN model using Tensorflow that recognizes Rock-Paper-Scissors. Built using MobileNetV2 pretrained on ImageNet.
+	</p>
+   Jun 5, 2020
+
    #### [Few Shot Learning (N-shot) in Pytorch](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/Prototypical%20Networks%20for%20Few-Shot-Learning.ipynb): 
    <p>
    Pytoch implementation of N-shot learning. We look at image classification of word image in many different languages (Omniglot Dataset) to and build the model that determines which of the evaluatiion set classes the sample belongs to.
