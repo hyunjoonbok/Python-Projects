@@ -33,11 +33,17 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
+   #### [Image Segmentation using a modified U-Net in Tensorflow](https://github.com/hyunjoonbok/Python-Projects/blob/master/tensorflow/Image%20Segmentation%20using%20a%20modified%20U-Net%20in%20Tensorflow.ipynb): 
+   <p>
+   An image segmentation task with Oxford-IIIT Pet Dataset to build a model that genenarte masks around the pet images and eventaully segment the image itself. Built using MobileNetV2 pretrained on ImageNet.
+	</p>
+   Jun 5, 2020
+
    #### [Rock Paper Scissors (using MobileNetV2) in Tensorflow 2.0](https://github.com/hyunjoonbok/Python-Projects/blob/master/tensorflow/Build%20RPS%20image%20classification%20using%20Tensorflow.ipynb): 
    <p>
    CNN model using Tensorflow that recognizes Rock-Paper-Scissors. Built using MobileNetV2 pretrained on ImageNet.
 	</p>
-   Jun 5, 2020
+   Jun 4, 2020
 
    #### [Few Shot Learning (N-shot) in Pytorch](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/Prototypical%20Networks%20for%20Few-Shot-Learning.ipynb): 
    <p>
