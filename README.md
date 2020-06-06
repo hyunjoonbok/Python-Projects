@@ -33,6 +33,13 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
+   #### [TabNet in Pytorch - New Solution to Tabular ML problems](https://github.com/hyunjoonbok/Python-Projects/blob/master/tensorflow/Image%20Segmentation%20using%20a%20modified%20U-Net%20in%20Tensorflow.ipynb): 
+   <p>
+   An introduction of TabNet, which is a neural-net based algorithm to be readily used in Tabular dataset Machine Learning problems (most common in Kaggle Competitions). A Pytorch Implementation with a Toy example (adult census income dataset and forest cover type dataset) are shown in this notebook, along with a basic architecture and workflow.
+	</p>
+   Jun 7, 2020
+
+
    #### [Image Segmentation using a modified U-Net in Tensorflow](https://github.com/hyunjoonbok/Python-Projects/blob/master/tensorflow/Image%20Segmentation%20using%20a%20modified%20U-Net%20in%20Tensorflow.ipynb): 
    <p>
    An image segmentation task with Oxford-IIIT Pet Dataset to build a model that genenarte masks around the pet images and eventaully segment the image itself. Built using MobileNetV2 pretrained on ImageNet.
