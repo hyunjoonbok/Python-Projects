@@ -33,7 +33,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
-   #### [TabNet in Pytorch - New Solution to Tabular ML problems](https://github.com/hyunjoonbok/Python-Projects/blob/master/tensorflow/Image%20Segmentation%20using%20a%20modified%20U-Net%20in%20Tensorflow.ipynb): 
+   #### [TabNet in Pytorch - New Solution to Tabular ML problems](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/TabNet%20in%20Pytorch%20-%20New%20Solution%20to%20Tabular%20ML%20problems.ipynb): 
    <p>
    An introduction of TabNet, which is a neural-net based algorithm to be readily used in Tabular dataset Machine Learning problems (most common in Kaggle Competitions). A Pytorch Implementation with a Toy example (adult census income dataset and forest cover type dataset) are shown in this notebook, along with a basic architecture and workflow.
 	</p>
