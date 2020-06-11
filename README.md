@@ -143,7 +143,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
    Feb 27, 2020
    
 
-   #### [Text Classification_final (Language Model)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Neural%20Net%20Tabular%20data.ipynb): 
+   #### [Text Classification_final (Language Model)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Fast.ai/(Fast.ai)%20Text%20Classification%20V2%20(Language%20Model).ipynb): 
    <p>
    2-way polarity (positive, negative) classification system for tweets. Using Fast.ai framework to fine-tune a language model and build a classification model with close to 80% accuracy. 
 	</p>
