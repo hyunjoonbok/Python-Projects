@@ -33,13 +33,20 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
+   #### [Text Classification with MLP (MultiLayer Perceptron) in Tensorflow Keras](https://github.com/hyunjoonbok/Python-Projects/blob/master/tensorflow/Text%20Classification%20with%20MLP%20(MultiLayer%20Perceptron)%20in%20Tensorflow%20Keras.ipynb): 
+   <p>
+   Simple MLP model in Tensorflow to solve the text classification problem. Here, we will use the texts_to_matrx() function in Keras to perform text-classification. 
+	</p>
+   Jun 14, 2020
+
+
    #### Recommedation System - Collaborative Filtering
    [FastAI Implementation](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/TabNet%20in%20Pytorch%20-%20New%20Solution%20to%20Tabular%20ML%20problems.ipynb) \
    [Surprise Library Implementation](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Recommendation%20System%20-%20Matrix%20Factoization%20(Collaboratvie%20Filtering)%20using%20Surprise%20Library.ipynb)
    <p>
    Experiment with the MovieLens 100K Data to provide movie recommendations for users based on different settings (Item-based, user-based, etc)
 	</p>
-   Jun 14, 2020
+   Jun 10, 2020
 
 
 
