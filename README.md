@@ -33,6 +33,16 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
+   #### [Recommedation System - Collaborative Filtering]
+   [FastAI Implementation](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/TabNet%20in%20Pytorch%20-%20New%20Solution%20to%20Tabular%20ML%20problems.ipynb)
+   [Surprise Library Implementation](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Recommendation%20System%20-%20Matrix%20Factoization%20(Collaboratvie%20Filtering)%20using%20Surprise%20Library.ipynb)
+   <p>
+   Experiment with the MovieLens 100K Data to provide movie recommendations for users based on different settings (Item-based, user-based, etc)
+	</p>
+   Jun 14, 2020
+
+
+
    #### [TabNet in Pytorch - New Solution to Tabular ML problems](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/TabNet%20in%20Pytorch%20-%20New%20Solution%20to%20Tabular%20ML%20problems.ipynb): 
    <p>
    An introduction of TabNet, which is a neural-net based algorithm to be readily used in Tabular dataset Machine Learning problems (most common in Kaggle Competitions). A Pytorch Implementation with a Toy example (adult census income dataset and forest cover type dataset) are shown in this notebook, along with a basic architecture and workflow.
