@@ -33,6 +33,13 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
+   #### [Reuters News Text Classification in Tensorflow Keras](https://github.com/hyunjoonbok/Python-Projects/blob/master/tensorflow/Reuters%20News%20Classification%20using%20LSTM%20(long-short%20tem%20memory)%20in%20Tensorflow.ipynb): 
+   <p>
+    We build a text classifcation on Reuters News (available through sklearn) based on LSTM method using Tensorflow
+	</p>
+   Jun 14, 2020
+
+
    #### [Text Classification with MLP (MultiLayer Perceptron) in Tensorflow Keras](https://github.com/hyunjoonbok/Python-Projects/blob/master/tensorflow/Text%20Classification%20with%20MLP%20(MultiLayer%20Perceptron)%20in%20Tensorflow%20Keras.ipynb): 
    <p>
    Simple MLP model in Tensorflow to solve the text classification problem. Here, we will use the texts_to_matrx() function in Keras to perform text-classification. 
