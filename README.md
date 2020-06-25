@@ -33,6 +33,13 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
+   #### [ML Model for predicting a Crew Size](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Ship_Crew_Size_ML_Model.ipynb): 
+   <p>
+    EDA-focused regression model building to predict a ship's Crew Size. CSV Dataset included in a same folder.
+	</p>
+   Jun 23, 2020
+   
+
    #### [Reuters News Text Classification in Tensorflow Keras](https://github.com/hyunjoonbok/Python-Projects/blob/master/tensorflow/Reuters%20News%20Classification%20using%20LSTM%20(long-short%20tem%20memory)%20in%20Tensorflow.ipynb): 
    <p>
     We build a text classifcation on Reuters News (available through sklearn) based on LSTM method using Tensorflow
