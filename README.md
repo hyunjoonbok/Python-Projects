@@ -20,9 +20,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 ## Table of contents
 * [ALL Portfolio](#Projects)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
+* [Reference](#Reference)
 * [Contact](#contact)
 
 <hr>
@@ -320,14 +318,8 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 <hr>
 
-## Setup
-#### - reqiurement
-```
-pip install -r requirements.txt
-```
-
-## Code Examples
-Show examples of usage: `put-your-code-here`
+## Reference
+- Deep Learning Model Implementation Zoo (Tensorflow 1 and Pytorch) [Github](https://github.com/rasbt/deeplearning-models?fbclid=IwAR15xtWohLZCyhNd8mpuFmhK-PhvqzMFsWFaxDaqXsQVqlRrj0-sIFanqvQ)
 
 <hr>
 
