@@ -36,6 +36,27 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
    July 3, 2020
 
 
+   #### [End-to-End Machine Learning Model using PySpark and MLlib](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib.ipynb): 
+   <p>
+    We build a complete ML model (Binary Classification with Imbalanced Classes problem) leveraging Spark's computation. Full cycle of ML (EDA, feature engineering, model building) is covered. In-Memory computation and Parallel-Processing are some of the major reasons that Apache Spark has become very popular in the big data industry to deal with data products at large scale and perform faster analysis
+	</p>
+   July 3, 2020
+
+
+   #### [Full Pytorch Implementation of Recommender System (Collaborative Filtering)](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib.ipynb): 
+   <p>
+    We build a complete ML model (Binary Classification with Imbalanced Classes problem) leveraging Spark's computation. Full cycle of ML (EDA, feature engineering, model building) is covered. In-Memory computation and Parallel-Processing are some of the major reasons that Apache Spark has become very popular in the big data industry to deal with data products at large scale and perform faster analysis
+	</p>
+   July 3, 2020
+   
+
+   #### [End-to-End Machine Learning Model using PySpark and MLlib](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib.ipynb): 
+   <p>
+    We build a complete ML model (Binary Classification with Imbalanced Classes problem) leveraging Spark's computation. Full cycle of ML (EDA, feature engineering, model building) is covered. In-Memory computation and Parallel-Processing are some of the major reasons that Apache Spark has become very popular in the big data industry to deal with data products at large scale and perform faster analysis
+	</p>
+   July 3, 2020
+
+
    #### [ML Model for predicting a Crew Size](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Ship_Crew_Size_ML_Model.ipynb): 
    <p>
     EDA-focused regression model building to predict a ship's Crew Size. CSV Dataset included in a same folder.
