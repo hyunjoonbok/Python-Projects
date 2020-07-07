@@ -29,32 +29,32 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
-   #### [End-to-End Machine Learning Model using PySpark and MLlib](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib.ipynb): 
+   #### [Multi-class Text Classification Problem with PySpark and MLlib](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Multi-class%20Text%20Classification%20Problem%20with%20PySpark%20and%20MLlib.ipynb): 
    <p>
-    We build a complete ML model (Binary Classification with Imbalanced Classes problem) leveraging Spark's computation. Full cycle of ML (EDA, feature engineering, model building) is covered. In-Memory computation and Parallel-Processing are some of the major reasons that Apache Spark has become very popular in the big data industry to deal with data products at large scale and perform faster analysis
+    Apache Spark is quickly gaining steam both in the headlines and real-world adoption, mainly because of its ability to process streaming data. With so much data being processed on a daily basis, it has become essential for us to be able to stream and analyze it in real time. We use Spark Machine Learning Library (Spark MLlib) to solve this multi-class text classification problem. 
 	</p>
-   July 3, 2020
+   Jul 6, 2020
 
 
-   #### [End-to-End Machine Learning Model using PySpark and MLlib](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib.ipynb): 
+   #### [Retail Price Recommendation model with Gradient Boosting Tree](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Retail%20Price%20Recommendation%20model%20with%20Gradient%20Boosting%20Tree.ipynb): 
    <p>
-    We build a complete ML model (Binary Classification with Imbalanced Classes problem) leveraging Spark's computation. Full cycle of ML (EDA, feature engineering, model building) is covered. In-Memory computation and Parallel-Processing are some of the major reasons that Apache Spark has become very popular in the big data industry to deal with data products at large scale and perform faster analysis
+    Mercari (Japan’s biggest shopping app) would like to offer pricing suggestions to sellers, but this is not easy because their sellers are enabled to put just about anything, or any bundle of things, on Mercari’s marketplace. In this machine learning project, we will build a model that automatically suggests the right product prices. Here we build a complete price recommendation model leveraging LightGBM.
 	</p>
-   July 3, 2020
+   Jul 4, 2020
 
 
-   #### [Full Pytorch Implementation of Recommender System (Collaborative Filtering)](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib.ipynb): 
+   #### [Full Pytorch Implementation of Recommender System (Collaborative Filtering)](https://github.com/hyunjoonbok/Python-Projects/blob/master/Pytorch/Full%20Pytorch%20Implementation%20of%20Recommender%20System%20(Collaborative%20Filtering).ipynb): 
    <p>
-    We build a complete ML model (Binary Classification with Imbalanced Classes problem) leveraging Spark's computation. Full cycle of ML (EDA, feature engineering, model building) is covered. In-Memory computation and Parallel-Processing are some of the major reasons that Apache Spark has become very popular in the big data industry to deal with data products at large scale and perform faster analysis
+   We utilize Pytoch's embeddings layers to build a simple recommendation system. Our model will predict user ratings for specific movies.
 	</p>
-   July 3, 2020
+   Jul 2, 2020
    
 
    #### [End-to-End Machine Learning Model using PySpark and MLlib](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib.ipynb): 
    <p>
     We build a complete ML model (Binary Classification with Imbalanced Classes problem) leveraging Spark's computation. Full cycle of ML (EDA, feature engineering, model building) is covered. In-Memory computation and Parallel-Processing are some of the major reasons that Apache Spark has become very popular in the big data industry to deal with data products at large scale and perform faster analysis
 	</p>
-   July 3, 2020
+   Jun 28, 2020
 
 
    #### [ML Model for predicting a Crew Size](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Ship_Crew_Size_ML_Model.ipynb): 
