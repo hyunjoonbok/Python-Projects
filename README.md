@@ -62,7 +62,14 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
     EDA-focused regression model building to predict a ship's Crew Size. CSV Dataset included in a same folder.
 	</p>
    Jun 23, 2020
-   
+ 
+ 
+   #### [Simple Text Mining concept and practice from scratch](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Simple%20Text%20Mining%20concept%20and%20practice%20from%20scratch.ipynb): 
+   <p>
+    This notebook shows 3 different approches that could be taken when performing a text-mining, from it's concept and actual implementation of codes. Text mining is an approach to find a relationship between two words in a given sentence. It could be found by using: 1) Frequency of appearance of two words 2) Statistical method of extracting connection 3) Word2vec (DL)
+	</p>
+   Jun 19, 2020 
+ 
 
    #### [Reuters News Text Classification in Tensorflow Keras](https://github.com/hyunjoonbok/Python-Projects/blob/master/tensorflow/Reuters%20News%20Classification%20using%20LSTM%20(long-short%20tem%20memory)%20in%20Tensorflow.ipynb): 
    <p>
