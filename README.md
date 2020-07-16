@@ -29,9 +29,16 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
-   #### [Multi-class Text Classification Problem with PySpark and MLlib](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Multi-class%20Text%20Classification%20Problem%20with%20PySpark%20and%20MLlib.ipynb): 
+
+   #### [Multi-Class Text Classification 1 (with PySpark and Doc2Vec)](https://github.com/hyunjoonbok/natural-language-processing/blob/master/07_Multi-Class_Text_Classification_with_PySpark_and_Doc2Vec.ipynb): 
    <p>
-    Apache Spark is quickly gaining steam both in the headlines and real-world adoption, mainly because of its ability to process streaming data. With so much data being processed on a daily basis, it has become essential for us to be able to stream and analyze it in real time. We use Spark Machine Learning Library (Spark MLlib) to solve this multi-class text classification problem. 
+    In this notebook, we utilize Apache Spark's machine learning library (MLlib) with PySpark to tackle NLP problem and how to simulate Doc2Vec inside Spark envioronment. Apache Spark is a famous distributed competiting system to to scale up any data processing solutions. Spark also provides a Machine-learning powered library called 'MLlib'. We utilize Spark Machine Learning Library (Spark MLlib) to look at 3297 labeled sentences, and classify them into 5 different categories.
+	</p>
+   Jul 7, 2020
+
+   #### [Multi-class Text Classification 2 (with PySpark, MLlib, SparkSQL)](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Multi-class%20Text%20Classification%20Problem%20with%20PySpark%20and%20MLlib.ipynb): 
+   <p>
+    Apache Spark is quickly gaining steam both in the headlines and real-world adoption, mainly because of its ability to process streaming data. With so much data being processed on a daily basis, it has become essential for us to be able to stream and analyze it in real time. We use Spark Machine Learning Library (Spark MLlib) to classify crime rescription into 33 categories.
 	</p>
    Jul 6, 2020
 
