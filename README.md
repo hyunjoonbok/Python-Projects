@@ -30,7 +30,7 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 ### 2020 Edition
 
 
-   #### Recommedation System - Collaborative Filtering
+   #### Explainable Machine Learning with SHAP
    [Understand Classification Model with SHAP](https://github.com/hyunjoonbok/Python-Projects/blob/master/%5BExplainable%20Machine%20Learning%5D%20SHAP%20Decision%20Plots%20in%20Depth.ipynb) \
    [Understand Regression Model with SHAP](https://github.com/hyunjoonbok/Python-Projects/blob/master/%5BExplainable%20Machine%20Learning%5D%20Understand%20Regression%20Model%20with%20SHAP%20(XGBoost).ipynb) \
    [SHAP Decision Plots in Depth](https://github.com/hyunjoonbok/Python-Projects/blob/master/%5BExplainable%20Machine%20Learning%5D%20Understand%20Sentiment%20Analysis%20Model%20with%20SHAP%20(Logistic%20Regression).ipynb)
