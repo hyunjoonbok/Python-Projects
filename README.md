@@ -30,6 +30,17 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 ### 2020 Edition
 
 
+   #### Recommedation System - Collaborative Filtering
+   [Understand Classification Model with SHAP](https://github.com/hyunjoonbok/Python-Projects/blob/master/%5BExplainable%20Machine%20Learning%5D%20SHAP%20Decision%20Plots%20in%20Depth.ipynb) \
+   [Understand Regression Model with SHAP](https://github.com/hyunjoonbok/Python-Projects/blob/master/%5BExplainable%20Machine%20Learning%5D%20Understand%20Regression%20Model%20with%20SHAP%20(XGBoost).ipynb) \
+   [SHAP Decision Plots in Depth](https://github.com/hyunjoonbok/Python-Projects/blob/master/%5BExplainable%20Machine%20Learning%5D%20Understand%20Sentiment%20Analysis%20Model%20with%20SHAP%20(Logistic%20Regression).ipynb)
+   <p>
+   
+SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model. It connects optimal credit allocation with local explanations using the classic Shapley values from game theory and their related extensions. Here, we look at the implementation of Tree SHAP, a fast and exact algorithm to compute SHAP values for trees and ensembles of trees. We have 3 different basic examples (regression / classifcation / more in-depth graphics) that can be applied to visualizaing the model.
+	</p>
+   Aug 8, 2020
+
+
    #### [Multi-Class Text Classification 1 (with PySpark and Doc2Vec)](https://github.com/hyunjoonbok/natural-language-processing/blob/master/07_Multi-Class_Text_Classification_with_PySpark_and_Doc2Vec.ipynb): 
    <p>
     In this notebook, we utilize Apache Spark's machine learning library (MLlib) with PySpark to tackle NLP problem and how to simulate Doc2Vec inside Spark envioronment. Apache Spark is a famous distributed competiting system to to scale up any data processing solutions. Spark also provides a Machine-learning powered library called 'MLlib'. We utilize Spark Machine Learning Library (Spark MLlib) to look at 3297 labeled sentences, and classify them into 5 different categories.
