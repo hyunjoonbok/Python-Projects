@@ -1,7 +1,7 @@
 # Python Portfolio
 Portfolio of data science projects from either original work or revised for a study and learning purpose. Portfolio in this repo is presented in the form of iPython Notebooks and .py files.
 
-For a detailed code example and images, please refer to readme file in each folder under framework names.
+For a detailed code example and images, please refer to readme.md file in each folder under framework names.
 
 *Note: Data used in the projects is for learning and demo purposes only*
 
