@@ -30,6 +30,17 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 ### 2020 Edition
 
 
+   #### Machine Learning / Deep Learning with H2O
+   [Complete guide to Machine Learning with H2O (AutoML)
+](https://github.com/hyunjoonbok/Python-Projects/blob/master/H2O/Complete%20guide%20to%20Machine%20Learning%20with%20H2O%20(AutoML).ipynb) \
+   [Machine Learning Regression problem with H2O (XGBoost & Deeplearning)](https://github.com/hyunjoonbok/Python-Projects/blob/master/H2O/Machine%20Learning%20Regression%20problem%20with%20H2O%20(XGBoost%20%26%20Deeplearning).ipynb) 
+   <p>
+   
+In this notebook, we will use the subset of the Freddie Mac Single-Family dataset to try to predict the interest rate for a loan using H2O's XGBoost and Deep Learning models. We will explore how to use these models for a regression problem, and we will also demonstrate how to use H2O's grid search to tune the hyper-parameters of both models. We're going to use machine learning with H2O-3 to predict the interest rate for each loan. To do this, we will build two regression models: an XGBoost model and a Deep Learning model that will help us find the interest rate that a loan should be assigned. Complete this tutorial to see how we achieved those results. Also, we go over H2O's AutoML solution, which is an automated algorithm for automating the machine learning workflow, which includes some light data preparation such as imputing missing data, standardization of numeric features, and one-hot encoding categorical features. It also provides automatic training, hyper-parameter optimization, model search, and selection under time, space, and resource constraints. H2O's AutoML further optimizes model performance by stacking an ensemble of models. H2O AutoML trains one stacked ensemble based on all previously trained models and another one on the best model of each family.
+	</p>
+   Aug 11, 2020
+
+
    #### Explainable Machine Learning with SHAP
    [Understand Classification Model with SHAP](https://github.com/hyunjoonbok/Python-Projects/blob/master/%5BExplainable%20Machine%20Learning%5D%20SHAP%20Decision%20Plots%20in%20Depth.ipynb) \
    [Understand Regression Model with SHAP](https://github.com/hyunjoonbok/Python-Projects/blob/master/%5BExplainable%20Machine%20Learning%5D%20Understand%20Regression%20Model%20with%20SHAP%20(XGBoost).ipynb) \
