@@ -29,6 +29,11 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
+   #### [Time Series Forecasting With Prophet in Python - WIP](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Time%20Series%20Forecasting%20With%20Prophet.ipynb): 
+   <p>
+	</p>
+   Sept 7, 2020
+
 
    #### Machine Learning / Deep Learning with H2O
    [Complete guide to Machine Learning with H2O (AutoML)
