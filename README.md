@@ -1,9 +1,11 @@
 # Python Portfolio
 Portfolio of data science projects from either original work or revised for a study and learning purpose. Portfolio in this repo is presented in the form of iPython Notebooks and .py files.
 
-For a detailed code example and images, please refer to readme.md file in each folder under framework names.
+Notebooks can be found in the each folder under the framework name (H2O, Pytorch, Tensorflow, etc)
 
-*Note: Data used in the projects is for learning and demo purposes only*
+For a detailed code example and explanation, please refer to readme.md file shown below.
+
+*Note: Data used in the projects is for demo purposes only*
 
 <hr>
 
