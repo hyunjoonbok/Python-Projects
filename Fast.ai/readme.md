@@ -1,9 +1,8 @@
 ## Projects
 Works builted upon Fast.ai framework
 
-## How to use?
+## How to View?
 Simply click one of the notebooks above
 
-## Contribute
-
-Please contact [HyunJoonBok](https://www.linkedin.com/in/hyunjoonbok/) will be a big plus
+## Contact
+The author can be contact on [Here](https://www.linkedin.com/in/hyunjoonbok/)
