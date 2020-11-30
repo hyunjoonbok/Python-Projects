@@ -31,6 +31,39 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 
 ### 2020 Edition
 
+
+   #### Cohort Analysis
+   [Cohort Analysis - Customer Retention (1)](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/Cohort_Basket_Analysis/%5BBasic%5D%20Cohort%20Analysis%20-%20Customer%20Retention%20(1).ipynb) \
+   [Cohort Analysis - Customer Retention (2)](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/Cohort_Basket_Analysis/%5BAdvanced%5D%20Cohort%20Analysis%20-%20Customer%20Retention%20(2).ipynb) \
+   [Cohort Analysis - Customer Segmentation (1)](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/Cohort_Basket_Analysis/%5BAdvanced%5D%20Cohort%20Analysis%20-%20Customer%20Segmentation%20(1).ipynb) \
+   [Cohort Analysis - Customer Segmentation (2)](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/Cohort_Basket_Analysis/%5BAdvanced%5D%20Cohort%20Analysis%20-%20Customer%20Segmentation%20(2).ipynb)    
+   <p>
+   Suppose that we have a company that selling some of the product, and you want to know how well does the selling performance of the product. We have the data that can we analyze, but what kind of analysis that we can do? We can segment customers based on their buying behavior on the market. These notebook introduces several ways to segment the users and better understand their retention, using the K-Means algorithm in Python. Using a industry marketing data, We create cohorts to understand metrics like customer retention rates, the average quantity purchased, the average price, etc. The notebook covers a full analysis (preprocessing + visualization + interpretation) to do customer segmentation step-by-step.
+	</p>
+   Nov 23, 2020
+   
+
+   #### [Marketing Channel Attribution with Markov Chains](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/Cohort_Basket_Analysis/Marketing%20Channel%20Attribution%20with%20Markov%20Chains%20.ipynb): 
+   <p>
+   In businses marketing scenarios, it is quite impoerntat to track the conversion from the user base through the advertisement money spent. But it is more valuable to know **how** each of those conversion are made, so that the further actions are taken in on-going basis (i.e. budget adjustment). The notebook introduces a concept of 'Markov Chains' to understand the attributions in marketing. By using these transition probabilities, we can identify the statistical impact a single channel has on our total conversions.
+	</p>
+   Oct 29, 2020
+
+
+   #### [Market Basket Analysis 101 with Real Example - Association rules, Lift, Confidence, Support](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/Cohort_Basket_Analysis/Market%20Basket%20Analysis%20101%20with%20Real%20Example%20-%20Association%20rules%2C%20Lift%2C%20Confidence%2C%20Support.ipynb): 
+   <p>
+   The notebook has the implementation of Basket anayiss in real-world data using Python. It goes over the concept, along with key terms and metrics aimed at giving a sense of what “association” in a rule means and some ways to quantify the strength of this association. The entire data mining process (preprocessing + visualization + interpretation) are clearly explained.
+	</p>
+   Oct 17, 2020
+
+
+   #### [Simple Text Mining concept and Practice from scratch](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/TextModel/Simple%20Text%20Mining%20concept%20and%20practice%20from%20scratch.ipynb): 
+   <p>
+   The purpose of the notebook is to get the very basic understading of the methods behind the common NLP project. It introduces 3 different approches that could be taken when performing a text-mining, from it's concept and actual implementation of codes: 1) Frequency of appearance of two words, 2) Statistical method of extracting connection, 3) Word2vec (DL). It also narrates 2 prerequisite steps to be taken before performing text-mining: 1) Select the target word 2) Choose the context: choose what is the sentence about
+	</p>
+   Oct 9, 2020
+
+
    #### [Time Series Forecasting With Prophet in Python - WIP](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Time%20Series%20Forecasting%20With%20Prophet.ipynb): 
    <p>
 	</p>
