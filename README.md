@@ -32,6 +32,13 @@ Below examples include the intense usage of industry-hot frameworks (i.e. Pytorc
 ### 2020 Edition
 
 
+   #### [Measuring Customer Lifetime Value (LTV)](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/Cohort_Basket_Analysis/Measuring%20Customer%20Lifetime%20Value%20(LTV)%20in%20Python.ipynb): 
+   <p>
+   While consuimg the notebbok, we measure the customer LTV (Lifetime Value) for any custom timeframe we want. We form an example using a real-world marketing dataset provided by Kaggle. We learn the concept of LTV, and how to preprocess and visualize the data to get the basic findings. And finally build a model that predicting 3-Month CLV for each customer group features.
+	</p>
+   Dec 3, 2020
+
+
    #### Cohort Analysis
    [Cohort Analysis - Customer Retention (1)](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/Cohort_Basket_Analysis/%5BBasic%5D%20Cohort%20Analysis%20-%20Customer%20Retention%20(1).ipynb) \
    [Cohort Analysis - Customer Retention (2)](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/Cohort_Basket_Analysis/%5BAdvanced%5D%20Cohort%20Analysis%20-%20Customer%20Retention%20(2).ipynb) \
