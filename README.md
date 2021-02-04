@@ -105,14 +105,14 @@ SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the
 	</p>
    Jul 7, 2020
 
-   #### [Multi-class Text Classification 2 (with PySpark, MLlib, SparkSQL)](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Multi-class%20Text%20Classification%20Problem%20with%20PySpark%20and%20MLlib.ipynb): 
+   #### [Multi-class Text Classification 2 (with PySpark, MLlib, SparkSQL)](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/TextModel/Multi-class%20Text%20Classification%20Problem%20with%20PySpark%20and%20MLlib.ipynb): 
    <p>
     Apache Spark is quickly gaining steam both in the headlines and real-world adoption, mainly because of its ability to process streaming data. With so much data being processed on a daily basis, it has become essential for us to be able to stream and analyze it in real time. We use Spark Machine Learning Library (Spark MLlib) to classify crime rescription into 33 categories.
 	</p>
    Jul 6, 2020
 
 
-   #### [Retail Price Recommendation model with Gradient Boosting Tree](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Retail%20Price%20Recommendation%20model%20with%20Gradient%20Boosting%20Tree.ipynb): 
+   #### [Retail Price Recommendation model with Gradient Boosting Tree](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/Others/Retail%20Price%20Recommendation%20model%20with%20Gradient%20Boosting%20Tree.ipynb): 
    <p>
     Mercari (Japan’s biggest shopping app) would like to offer pricing suggestions to sellers, but this is not easy because their sellers are enabled to put just about anything, or any bundle of things, on Mercari’s marketplace. In this machine learning project, we will build a model that automatically suggests the right product prices. Here we build a complete price recommendation model leveraging LightGBM.
 	</p>
@@ -126,21 +126,21 @@ SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the
    Jul 2, 2020
    
 
-   #### [End-to-End Machine Learning Model using PySpark and MLlib](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib.ipynb): 
+   #### [End-to-End Machine Learning Model using PySpark and MLlib](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/Others/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib.ipynb): 
    <p>
     We build a complete ML model (Binary Classification with Imbalanced Classes problem) leveraging Spark's computation. Full cycle of ML (EDA, feature engineering, model building) is covered. In-Memory computation and Parallel-Processing are some of the major reasons that Apache Spark has become very popular in the big data industry to deal with data products at large scale and perform faster analysis
 	</p>
    Jun 28, 2020
 
 
-   #### [ML Model for predicting a Crew Size](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Ship_Crew_Size_ML_Model.ipynb): 
+   #### [ML Model for predicting a Crew Size](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/Others/Ship_Crew_Size_ML_Model.ipynb): 
    <p>
     EDA-focused regression model building to predict a ship's Crew Size. CSV Dataset included in a same folder.
 	</p>
    Jun 23, 2020
  
  
-   #### [Simple Text Mining concept and practice from scratch](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Simple%20Text%20Mining%20concept%20and%20practice%20from%20scratch.ipynb): 
+   #### [Simple Text Mining concept and practice from scratch](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/TextModel/Simple%20Text%20Mining%20concept%20and%20practice%20from%20scratch.ipynb): 
    <p>
     This notebook shows 3 different approches that could be taken when performing a text-mining, from it's concept and actual implementation of codes. Text mining is an approach to find a relationship between two words in a given sentence. It could be found by using: 1) Frequency of appearance of two words 2) Statistical method of extracting connection 3) Word2vec (DL)
 	</p>
@@ -162,8 +162,8 @@ SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the
 
 
    #### Recommedation System - Collaborative Filtering
-   [FastAI Implementation](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Recommendation%20System%20-%20Matrix%20Factoization%20(Collaboratvie%20Filtering)%20in%20FastAI.ipynb) \
-   [Surprise Library Implementation](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Recommendation%20System%20-%20Matrix%20Factoization%20(Collaboratvie%20Filtering)%20using%20Surprise%20Library.ipynb)
+   [FastAI Implementation](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/RecommendationModel/Recommendation%20System%20-%20Matrix%20Factoization%20(Collaboratvie%20Filtering)%20in%20FastAI.ipynb) \
+   [Surprise Library Implementation](https://github.com/hyunjoonbok/Python-Projects/blob/master/GeneralML/RecommendationModel/Recommendation%20System%20-%20Matrix%20Factoization%20(Collaboratvie%20Filtering)%20using%20Surprise%20Library.ipynb)
    <p>
    Experiment with the MovieLens 100K Data to provide movie recommendations for users based on different settings (Item-based, user-based, etc)
 	</p>
