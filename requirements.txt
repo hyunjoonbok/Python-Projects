@@ -43,7 +43,7 @@ decorator==4.4.1
 defusedxml==0.6.0
 Deprecated==1.2.7
 distributed==2.10.0
-Django==2.2.13
+Django==2.2.18
 docker-pycreds==0.4.0
 docutils==0.15.2
 dtale==1.7.15
