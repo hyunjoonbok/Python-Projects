@@ -163,7 +163,7 @@ py==1.8.1
 pyarrow==0.15.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-Pygments==2.5.2
+Pygments==2.7.4
 pylint==2.4.4
 pynvml==8.0.4
 pyparsing==2.4.0
