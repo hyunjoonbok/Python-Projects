@@ -111,7 +111,7 @@ langdetect==1.0.7
 lazy-object-proxy==1.4.3
 lightgbm==2.3.1
 llvmlite==0.31.0
-lxml==4.6.2
+lxml==4.6.5
 lz4==3.0.2
 Mako==1.1.1
 Markdown==3.1
