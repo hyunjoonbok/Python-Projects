@@ -87,7 +87,7 @@ jedi==0.15.2
 jellyfish==0.5.6
 Jinja2==2.10.3
 jmespath==0.9.4
-joblib==0.13.2
+joblib==1.2.0
 json5==0.8.5
 jsonschema==3.2.0
 jupyter==1.0.0
