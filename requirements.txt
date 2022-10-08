@@ -130,7 +130,7 @@ murmurhash==1.0.2
 nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.2
-notebook==6.1.5
+notebook==6.4.12
 numba==0.47.0
 numexpr==2.7.0
 numpy==1.16.3
