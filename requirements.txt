@@ -237,7 +237,7 @@ tqdm==4.41.0
 traitlets==4.3.3
 transformers==2.3.0
 typed-ast==1.4.0
-urllib3==1.24.3
+urllib3==1.26.5
 us==1.0.0
 wandb==0.8.29
 wasabi==0.5.0
