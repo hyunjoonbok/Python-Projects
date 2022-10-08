@@ -99,7 +99,7 @@ jupyter-core==4.6.1
 jupyter-highlight-selected-word==0.2.0
 jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
-jupyter-server-proxy==1.2.0
+jupyter-server-proxy==3.2.1
 jupyterlab==1.2.4
 jupyterlab-nvdashboard==0.2.0
 jupyterlab-server==1.0.6
