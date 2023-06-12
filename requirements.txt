@@ -235,7 +235,7 @@ torchvision==0.4.2
 tornado==6.0.3
 tqdm==4.41.0
 traitlets==4.3.3
-transformers==2.3.0
+transformers==4.30.0
 typed-ast==1.4.0
 urllib3==1.24.3
 us==1.0.0
