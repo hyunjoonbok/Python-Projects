@@ -176,7 +176,7 @@ python-editor==1.0.4
 pytorch-transformers==1.2.0
 pytz==2019.1
 PyWavelets==1.1.1
-pywin32==227
+pywin32==301
 pywinpty==0.5.7
 PyYAML==5.1
 pyzmq==18.1.1
