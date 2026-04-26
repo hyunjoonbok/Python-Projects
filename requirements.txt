@@ -170,7 +170,7 @@ pyparsing==2.4.0
 pyperclip==1.7.0
 pyreadline==2.1
 pyrsistent==0.15.6
-pytest==5.3.2
+pytest==9.0.3
 python-dateutil==2.8.0
 python-editor==1.0.4
 pytorch-transformers==1.2.0
