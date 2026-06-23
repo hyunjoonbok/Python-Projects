@@ -123,7 +123,7 @@ mock==3.0.5
 modin==0.7.0
 more-itertools==8.0.2
 mpld3==0.3
-msgpack==0.6.2
+msgpack==1.2.1
 multidict==4.7.5
 munch==2.5.0
 murmurhash==1.0.2
